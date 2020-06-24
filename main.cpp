@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <ctime>
 #include <conio.h>
-
 using namespace std;
 
 int main()
@@ -29,7 +28,7 @@ int main()
         cout << "Computer's score is "<< computer_score <<endl;
         cout << endl;
 
-do {
+        do {
         cout <<"What will you choose, "<< player_name<< "?"<<endl;
         cout <<"Paper - 1"<<endl;
         cout <<"Rock - 2"<<endl;
